@@ -1,12 +1,13 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace Globalmantics.BandAgent
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello World from Mark's 2nd attempt at BandAgent!");
+            Console.WriteLine("Hello World from Mark and BandAgent!");
         }
     }
 }
