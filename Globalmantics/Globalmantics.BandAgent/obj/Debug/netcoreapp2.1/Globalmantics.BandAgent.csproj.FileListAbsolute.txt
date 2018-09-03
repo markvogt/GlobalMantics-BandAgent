@@ -1,0 +1,11 @@
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\bin\Debug\netcoreapp2.1\Globalmantics.BandAgent.deps.json
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\bin\Debug\netcoreapp2.1\Globalmantics.BandAgent.runtimeconfig.json
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\bin\Debug\netcoreapp2.1\Globalmantics.BandAgent.runtimeconfig.dev.json
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\bin\Debug\netcoreapp2.1\Globalmantics.BandAgent.dll
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\bin\Debug\netcoreapp2.1\Globalmantics.BandAgent.pdb
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\obj\Debug\netcoreapp2.1\Globalmantics.BandAgent.csprojAssemblyReference.cache
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\obj\Debug\netcoreapp2.1\Globalmantics.BandAgent.csproj.CoreCompileInputs.cache
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\obj\Debug\netcoreapp2.1\Globalmantics.BandAgent.AssemblyInfoInputs.cache
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\obj\Debug\netcoreapp2.1\Globalmantics.BandAgent.AssemblyInfo.cs
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\obj\Debug\netcoreapp2.1\Globalmantics.BandAgent.dll
+C:\Development\GitHub\GlobalMantics-BandAgent\Globalmantics\Globalmantics.BandAgent\obj\Debug\netcoreapp2.1\Globalmantics.BandAgent.pdb
